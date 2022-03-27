@@ -1,0 +1,9 @@
+body{
+    margin-bottom: 0px;
+    padding: 0px;
+    background: url('../img/1.jpeg');
+    background-size: cover;
+    background-position: center;
+    font-family: initial;
+    height: 100vh;
+}

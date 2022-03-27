@@ -1,0 +1,145 @@
+body{
+    margin-bottom: 0px;
+    padding: 0px;
+    background: url('../img/1.jpeg');
+    background-size: cover;
+    background-position: center;
+    font-family: initial;
+    height: 100vh;
+}
+.welcome-box{
+	width: 550px;
+	height: 450px;
+	background: rgba(0,0,0,0.5);
+	border-radius: 47%;
+	color: #fff;
+	top: 55%;
+	left: 50%;
+	position: absolute;
+	box-sizing: border-box;
+	padding: 70px;
+	transform: translate(-50%, -50%);
+}
+.welcomeAdmin{
+	width: 150px;
+	height: 150px;
+    border-radius: 100%;
+	position: absolute;
+	top: 35%;  
+	left: calc(20% - 50px);
+	
+    
+}
+
+.welcomeUser{
+	width: 150px;
+	height: 150px;
+    border-radius: 100%;
+	position: absolute;
+	top: 35%;  	
+	left: calc(72% - 50px);
+}
+
+	
+    
+
+
+
+
+
+#mb-4{
+	width: 80px;
+	height: 80px;
+    border-radius: 50%;
+	position: absolute;
+	top: 0;  
+	left: calc(50% - 100	px);
+}
+
+
+.post {
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 10px;
+    width: 70%;
+    margin: 20px 25px 0 25px;
+}
+.halaman-informasi-keluhan{
+    background-color: #3141ff;
+}
+
+.halaman-informasi-keluhan ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.halaman-informasi-keluhan > ul > li {
+    float: left;
+}
+
+.halaman-informasi-keluhan li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+h3{
+	font-size: 25px;
+	text-align: center;
+}
+.post {
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 10px;
+    width: 70%;
+    margin: 20px 25px 0 25px;
+}
+b{
+    font-family: sans-serif;
+    font-size: 15px;
+    background: #22a4cf;
+    color: black;
+    border-radius: 5px;
+    padding: 12px 20px;
+    margin-top: 10px;
+    margin-left: 1100px;
+}
+
+
+h5{	
+	position: absolute;
+	font-size: 21px;
+	padding: 70px;
+	top: 20%;
+	transform: translate(-5%, 100%);
+
+}
+
+h2{	
+	position: absolute;
+	font-size: 27px;
+	padding: 70px;
+	top: -40%;
+	color:black;
+	transform: translate(10%, 100%);
+
+}
+h6{
+    position: absolute;
+	font-size: 27px;
+	padding: 10px;
+    text-align: center;
+	top: 0%;
+	color:black;
+	transform: translate(0%,0%); 
+     
+     
+}
+
+
+
